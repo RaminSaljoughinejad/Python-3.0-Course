@@ -1,0 +1,8 @@
+Hello, class.
+This is the first line of my text file.
+here is the second line.
+the third line.
+forth!
+fifth.
+the reason behind this file is        nothing.
+Python is Awesome !!!!
