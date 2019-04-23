@@ -17,7 +17,6 @@ Installation of Python 3.x and other prerequisiteds such as [#FDB72D](jupyter no
 ## Contents
 
 [001](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/001/Main%2001.ipynb) - Hello, World.
-
 [002](002/Main 02.ipynb) - Simple Operations (Addition, Subtraction, Multiplication, Divition, ...).
 
 [003](003/Main 03.ipynb) - Dividing by zero.
