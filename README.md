@@ -15,31 +15,57 @@ Installation of Python 3.x and other prerequisiteds such as [#FDB72D](jupyter no
 ## Contents
 
 [001](https://github.com/RaminSaljoughinejad/Python-3.0-Course/edit/master/001/Main 01.ipynb) - Hello, World.
+
 [002](002/Main 02.ipynb) - Simple Operations (Addition, Subtraction, Multiplication, Divition, ...).
+
 [003](003/Main 03.ipynb) - Dividing by zero.
+
 [004](004/Main 04.ipynb) - Floats.
+
 [005](005/Main 05.ipynb) - Exponentiation (Power).
+
 [006](006/Main 06.ipynb) - Remainder & Quotient.
+
 [007](007/Main 07.ipynb) - Strings.
+
 [008](008/Main 08.ipynb) - Simple Output.
+
 [009](009/Main 09.ipynb) - Simple Input.
+
 [010](010/Main 10.ipynb) - Concatenation.
+
 [011](011/Main 11.ipynb) - String Operations.
+
 [012](012/Main 12.ipynb) - Type Conversion.
+
 [013](013/Main 13.ipynb) - Variables and Naming Rules.
+
 [014](014/Main 14.ipynb) - In-Place Operators.
+
 [015](015/Main 15.ipynb) - Boolian & Comparison.
+
 [016](016/Main 16.ipynb) - Conditional Statements (if statement).
+
 [017](017/Main 17.ipynb) - Conditional Statements (if ... else ... Statements).
+
 [018](018/Main 18.ipynb) - Boolian Logic.
+
 [019](019/Main 19.ipynb) - Operator Precedence (Parentheses, Exponentiation, Multilication, Devision, Addition, and Subtraction).
+
 [020](020/Main 20.ipynb) - Loops (While Loop).
+
 [021](021/Main 21.ipynb) - Break Statement.
+
 [022](022/Main 22.ipynb) - Continue Statement.
+
 [023](023/Main 23.ipynb) - Lists.
+
 [024](024/Main 24.ipynb) - More into Lists (Searching, Replacing, Sorting, ...).
+
 [025](025/Main 25.ipynb) - More into Lists (List Operations).
+
 [026](026/Main 26.ipynb) - More into Lists (List Functions).
+
 [027](027/Main 27.ipynb) - Range.
 [028](028/Main 28.ipynb) - Loops (For Loop).
 [029](029/Main 29.ipynb) - Functions.
