@@ -46,7 +46,7 @@ Installation of Python 3.x and other prerequisiteds such as [#FDB72D](jupyter no
 
 [015](015/Main 15.ipynb) - Boolian & Comparison.
 
-[016](016/Main 16.ipynb) - Conditional Statements (if statement).
+[016] (016/Main 16.ipynb) - Conditional Statements (if statement).
 
 [017](017/Main 17.ipynb) - Conditional Statements (if ... else ... Statements).
 
