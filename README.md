@@ -80,15 +80,15 @@ Installation of Python 3.x and other prerequisiteds such as [#FDB72D](jupyter no
 [064](064/Main 64.ipynb) - Sets
 
 
-[Assignment 01](Assignments/01/Assignment 01.ipynb)
-[Assignment 02](Assignments/02/Assignment 02.ipynb)
-[Assignment 03](Assignments/03/Assignment 03.ipynb)
-[Assignment 04](Assignments/04/Assignment 04.ipynb)
-[Assignment 05](Assignments/05/Assignment 05.ipynb)
-[Assignment 06](Assignments/06/Assignment 06.ipynb)
-[Assignment 07](Assignments/07/Assignment 07.ipynb)
-[Assignment 08](Assignments/08/Assignment 08.ipynb)
-[Assignment 09](Assignments/09/Assignment 09.ipynb)
+ [Assignment 01](Assignments/01/Assignment 01.ipynb)
+ [Assignment 02](Assignments/02/Assignment 02.ipynb)
+ [Assignment 03](Assignments/03/Assignment 03.ipynb)
+ [Assignment 04](Assignments/04/Assignment 04.ipynb)
+ [Assignment 05](Assignments/05/Assignment 05.ipynb)
+ [Assignment 06](Assignments/06/Assignment 06.ipynb)
+ [Assignment 07](Assignments/07/Assignment 07.ipynb)
+ [Assignment 08](Assignments/08/Assignment 08.ipynb)
+ [Assignment 09](Assignments/09/Assignment 09.ipynb)
 
 
 ## Author
