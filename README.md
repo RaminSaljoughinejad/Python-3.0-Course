@@ -2,9 +2,9 @@
 
 These notebooks and files have been designed mainly for my students at:
 
-*[#1589F0](Chamran University of Kerman) - University Lectures
-*[#1589F0](Farhang Gostar Institue of Computer) - Lectures
-*[#1589F0](My own Website) - Online Course
+[#1589F0](Chamran University of Kerman) - University Lectures
+[#1589F0](Farhang Gostar Institue of Computer) - Lectures
+[#1589F0](My own Website) - Online Course
 
 
 ## Installation
