@@ -17,13 +17,13 @@ Installation of Python 3.x and other prerequisiteds such as [#FDB72D](jupyter no
 ## Contents
 
 * [001](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/001/Main%2001.ipynb) - Hello, World.
-* [002](002/Main 02.ipynb) - Simple Operations (Addition, Subtraction, Multiplication, Divition, ...).
+* [002](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/002/Main%2002.ipynb) - Simple Operations (Addition, Subtraction, Multiplication, Divition, ...).
 
-* [003](003/Main 03.ipynb) - Dividing by zero.
+* [003](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/003/Main%2003.ipynb) - Dividing by zero.
 
-* [004](004/Main 04.ipynb) - Floats.
+* [004](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/004/Main%2004.ipynb) - Floats.
 
-* [005](005/Main 05.ipynb) - Exponentiation (Power).
+* [005](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/005/Main%2005.ipynb) - Exponentiation (Power).
 
 * [006](006/Main 06.ipynb) - Remainder & Quotient.
 
