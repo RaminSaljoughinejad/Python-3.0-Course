@@ -25,57 +25,57 @@ Installation of Python 3.x and other prerequisiteds such as [#FDB72D](jupyter no
 
 * [005](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/005/Main%2005.ipynb) - Exponentiation (Power).
 
-* [006](006/Main 06.ipynb) - Remainder & Quotient.
+* [006](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/006/Main%2006.ipynb) - Remainder & Quotient.
 
-* [007](007/Main 07.ipynb) - Strings.
+* [007](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/007/Main%2007.ipynb) - Strings.
 
-* [008](008/Main 08.ipynb) - Simple Output.
+* [008](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/008/Main%2008.ipynb) - Simple Output.
 
-* [009](009/Main 09.ipynb) - Simple Input.
+* [009](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/009/Main%2009.ipynb) - Simple Input.
 
-* [010](010/Main 10.ipynb) - Concatenation.
+* [010](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/010/Main%2010.ipynb) - Concatenation.
 
-* [011](011/Main 11.ipynb) - String Operations.
+* [011](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/011/Main%2011.ipynb) - String Operations.
 
-* [012](012/Main 12.ipynb) - Type Conversion.
+* [012](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/012/Main%2012.ipynb) - Type Conversion.
 
-* [013](013/Main 13.ipynb) - Variables and Naming Rules.
+* [013](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/013/Main%2013.ipynb) - Variables and Naming Rules.
 
-* [014](014/Main 14.ipynb) - In-Place Operators.
+* [014](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/014/Main%2014.ipynb) - In-Place Operators.
 
-* [015](015/Main 15.ipynb) - Boolian & Comparison.
+* [015](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/015/Main%2015.ipynb) - Boolian & Comparison.
 
-* [016] (016/Main 16.ipynb) - Conditional Statements (if statement).
+* [016](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/016/Main%2016.ipynb) - Conditional Statements (if statement).
 
-* [017](017/Main 17.ipynb) - Conditional Statements (if ... else ... Statements).
+* [017](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/017/Main%2017.ipynb) - Conditional Statements (if ... else ... Statements).
 
-* [018](018/Main 18.ipynb) - Boolian Logic.
+* [018](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/018/Main%2018.ipynb) - Boolian Logic.
 
-* [019](019/Main 19.ipynb) - Operator Precedence (Parentheses, Exponentiation, Multilication, Devision, Addition, and Subtraction).
+* [019](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/019/Main%2019.ipynb) - Operator Precedence (Parentheses, Exponentiation, Multilication, Devision, Addition, and Subtraction).
 
-* [020](020/Main 20.ipynb) - Loops (While Loop).
+* [020](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/020/Main%2020.ipynb) - Loops (While Loop).
 
-* [021](021/Main 21.ipynb) - Break Statement.
+* [021](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/021/Main%2021.ipynb) - Break Statement.
 
-* [022](022/Main 22.ipynb) - Continue Statement.
+* [022](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/022/Main%2022.ipynb) - Continue Statement.
 
-* [023](023/Main 23.ipynb) - Lists.
+* [023](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/023/Main%2023.ipynb) - Lists.
 
-* [024](024/Main 24.ipynb) - More into Lists (Searching, Replacing, Sorting, ...).
+* [024](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/024/Main%2024.ipynb) - More into Lists (Searching, Replacing, Sorting, ...).
 
-* [025](025/Main 25.ipynb) - More into Lists (List Operations).
+* [025](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/025/Main%2025.ipynb) - More into Lists (List Operations).
 
-* [026](026/Main 26.ipynb) - More into Lists (List Functions).
+* [026](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/026/Main%2026.ipynb) - More into Lists (List Functions).
 
-[027](027/Main 27.ipynb) - Range.
+[027](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/027/Main%2027.ipynb) - Range.
 
-[028](028/Main 28.ipynb) - Loops (For Loop).
+[028](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/028/Main%2028.ipynb) - Loops (For Loop).
 
-[029](029/Main 29.ipynb) - Functions.
+[029](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/029/Main%2029.ipynb) - Functions.
 
-[030](030/Main 30.ipynb) - Comments.
+[030](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/030/Main%2030.ipynb) - Comments.
 
-[031](031/Main 31.ipynb) - More into Functions.
+[031](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/031/Main%2031.ipynb) - More into Functions.
 
 [032](032/Main 32.ipynb) - Madules (Random Madule).
 
