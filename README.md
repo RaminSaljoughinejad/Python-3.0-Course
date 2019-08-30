@@ -67,17 +67,17 @@ Installation of Python 3.x and other prerequisiteds such as [#FDB72D](jupyter no
 
 * [026](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/026/Main%2026.ipynb) - More into Lists (List Functions).
 
-[027](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/027/Main%2027.ipynb) - Range.
+* [027](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/027/Main%2027.ipynb) - Range.
 
-[028](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/028/Main%2028.ipynb) - Loops (For Loop).
+* [028](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/028/Main%2028.ipynb) - Loops (For Loop).
 
-[029](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/029/Main%2029.ipynb) - Functions.
+* [029](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/029/Main%2029.ipynb) - Functions.
 
-[030](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/030/Main%2030.ipynb) - Comments.
+* [030](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/030/Main%2030.ipynb) - Comments.
 
-[031](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/031/Main%2031.ipynb) - More into Functions.
+* [031](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/031/Main%2031.ipynb) - More into Functions.
 
-[032](032/Main 32.ipynb) - Madules (Random Madule).
+* [032](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/032/Main%2032.ipynb) - Madules (Random Madule).
 
 [033](033/Main 33.ipynb) - More into Madules.
 
