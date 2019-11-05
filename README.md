@@ -141,7 +141,7 @@ Installation of Python 3.x and other prerequisiteds such as [#FDB72D](jupyter no
 
 * [063](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/063/Main%2063.ipynb) - Recursion.
 
-* [064](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/064/Main%2064.ipynb) - Sets.
+* [064](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/064/Main%2064.ipynb) - Classes.
 
 
  [Assignment 01](Assignments/01/Assignment 01.ipynb).
