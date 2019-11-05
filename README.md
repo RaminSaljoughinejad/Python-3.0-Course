@@ -2,7 +2,7 @@
 
 These notebooks and files are designed mainly for my students at:
 
-[#1589F0](Chamran University of Kerman) - University Lectures
+* [#1589F0](https://kerman.tvu.ac.ir)(Chamran University of Kerman) - University Lectures
 
 [#1589F0](Farhang Gostar Institue of Computer) - Lectures
 
