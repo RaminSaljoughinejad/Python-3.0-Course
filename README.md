@@ -11,7 +11,7 @@ These notebooks and files are designed mainly for my students at:
 
 ## Installation
 
-Installation of Python 3.x and other prerequisiteds such as [#FDB72D](jupyter notebook) are completly explained in the first video/lecture of the course).
+Installation of Python 3.x and other prerequisiteds such as <span style='color:red;'>jupyter notebook</span> are completly explained in the first video/lecture of the course).
 
 
 ## Contents
