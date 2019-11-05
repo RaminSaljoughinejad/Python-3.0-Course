@@ -2,11 +2,11 @@
 
 These notebooks and files are designed mainly for my students at:
 
-* [Chamran University of Kerman](https://kerman.tvu.ac.ir) - University Lectures
+* [Chamran University of Kerman](https://kerman.tvu.ac.ir)
 
-[#1589F0](Farhang Gostar Institue of Computer) - Lectures
+* [#1589F0](Farhang Gostar Institue of Computer)
 
-[#1589F0](My own Website) - Online Course [Currently Unavailable]
+* [#1589F0](My own Website) - Online Course [Currently Unavailable]
 
 
 ## Installation
