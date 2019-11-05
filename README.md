@@ -1,6 +1,6 @@
 # Python 3.x Programming 
 
-These notebooks and files have been designed mainly for my students at:
+These notebooks and files are designed mainly for my students at:
 
 [#1589F0](Chamran University of Kerman) - University Lectures
 
