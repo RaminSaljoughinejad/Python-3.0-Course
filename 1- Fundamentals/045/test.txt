@@ -1,3 +1,3 @@
 Hello, this is the first line of my txt file.
 This one is the second line of my txt file.
-And in the END, this is the the third and last line of my txt file.
+And in the END, this is the third and last line of my txt file.
