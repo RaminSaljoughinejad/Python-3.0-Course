@@ -144,11 +144,11 @@ Installation of Python 3.x and other prerequisiteds such as "Jupyter Notebook" a
 * [064](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/064/Main%2064.ipynb) - Classes.
 
 #### Extra! small projects
-* Solving N queen problem using Genetic Algirthm
+* Solving N queen problem using Genetic algorithm
 
 * Heart Bar (Converting a picture into a graph)
 
-* MNiST Data Prepraition
+* MNIST Data Prepraition
 
 * PSO Algorithm... 
 
