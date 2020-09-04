@@ -4,6 +4,8 @@ These notebooks and files are designed mainly for my students at:
 
 * [Chamran University of Kerman](https://kerman.tvu.ac.ir)
 
+* [Azad University of Kerman]()
+
 * [#1589F0](Farhang Gostar Institue of Computer)
 
 * [#1589F0](My own Website) - Online Course [Currently Unavailable]
@@ -144,7 +146,14 @@ Installation of Python 3.x and other prerequisiteds such as "Jupyter Notebook" a
 * [064](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/064/Main%2064.ipynb) - Classes.
 
 #### Extra! small projects
-* Solving N queen problem using Genetic algorithm
+
+* Capcha
+
+* Genetic Algorithm
+
+     * N-Queen Problem
+
+     * Travelling Salesman Problem
 
 * Heart Bar (Converting a picture into a graph)
 
