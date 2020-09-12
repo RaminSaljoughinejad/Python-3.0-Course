@@ -161,6 +161,9 @@ Installation of Python 3.x and other prerequisites such as "Jupyter Notebook" ar
 
 * PSO Algorithm... 
 
+* Games
+     * Snake
+
 #### Assignments
 
 
