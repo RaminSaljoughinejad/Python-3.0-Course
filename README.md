@@ -13,7 +13,7 @@ These notebooks and files are designed mainly for my students at:
 
 ## Installation
 
-Installation of Python 3.x and other prerequisiteds such as "Jupyter Notebook" are completly explained in the first video/lecture of the course).
+Installation of Python 3.x and other prerequisites such as "Jupyter Notebook" are completly explained in the first video/lecture of the course).
 
 
 ## Contents
