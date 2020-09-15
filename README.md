@@ -13,7 +13,7 @@ These notebooks and files are designed mainly for my students at:
 
 ## Installation
 
-Installation of Python 3.x and other prerequisiteds such as "Jupyter Notebook" are completly explained in the first video/lecture of the course).
+Installation of Python 3.x and other prerequisites such as "Jupyter Notebook" are completly explained in the first video/lecture of the course.
 
 
 ## Contents
@@ -161,26 +161,29 @@ Installation of Python 3.x and other prerequisiteds such as "Jupyter Notebook" a
 
 * PSO Algorithm... 
 
+* Games
+     * Snake
+
 #### Assignments
 
 
-* [Assignment 01](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Assignments/01/Assignment%2001.ipynb).
+* [Assignment 01](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Class%20Assignments/01/Assignment%2001.ipynb).
  
-* [Assignment 02](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Assignments/02/Assignment%2002.ipynb).
+* [Assignment 02](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Class%20Assignments/02/Assignment%2002.ipynb).
  
-* [Assignment 03](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Assignments/03/Assignment%2003.ipynb).
+* [Assignment 03](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Class%20Assignments/03/Assignment%2003.ipynb).
  
-* [Assignment 04](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Assignments/04/Assignment%2004.ipynb).
+* [Assignment 04](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Class%20Assignments/04/Assignment%2004.ipynb).
  
-* [Assignment 05](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Assignments/05/Assignment%2005.ipynb).
+* [Assignment 05](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Class%20Assignments/05/Assignment%2005.ipynb).
  
-* [Assignment 06](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Assignments/06/Assignment%2006.ipynb).
+* [Assignment 06](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Class%20Assignments/06/Assignment%2006.ipynb).
  
-* [Assignment 07](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Assignments/07/Assignment%2007.ipynb).
+* [Assignment 07](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Class%20Assignments/07/Assignment%2007.ipynb).
  
-* [Assignment 08](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Assignments/08/Assignment%2008.ipynb).
+* [Assignment 08](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Class%20Assignments/08/Assignment%2008.ipynb).
  
-* [Assignment 09](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Assignments/09/Assignment%2009.ipynb).
+* [Assignment 09](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/Class%20Assignments/09/Assignment%2009.ipynb).
 
 
 ## Author
