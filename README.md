@@ -15,6 +15,10 @@ These notebooks and files are designed mainly for my students at:
 
 Installation of Python 3.x and other prerequisites such as "Jupyter Notebook" are completly explained in the first video/lecture of the course.
 
+Here is also a link to a video that I made installing both Python and Jupyter Notebook. (The Video is in Farsi (Persian) )
+
+* [Windows](https://www.aparat.com/v/APGaO)
+* [Mac](https://www.aparat.com/v/1Sa0v)
 
 ## Contents
 #### 1- Fundamentals
