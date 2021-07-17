@@ -17,8 +17,8 @@ Installation of Python 3.x and other prerequisites such as "Jupyter Notebook" ar
 
 Here is also a link to a video that I made installing both Python and Jupyter Notebook. (The Video is in Farsi (Persian) )
 
-* [Windows](https://www.aparat.com/v/APGaO)
-* [Mac](https://www.aparat.com/v/1Sa0v)
+* [Windows](https://www.youtube.com/watch?v=zKvkJZHjZ9c)
+* [Mac](https://www.youtube.com/watch?v=ozmazsV8_18&t=2s)
 
 ## Contents
 #### 1- Fundamentals
