@@ -83,9 +83,9 @@ Here is also a link to a video that I made installing both Python and Jupyter No
 
 * [031](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/031/Main%2031.ipynb) - More into Functions.
 
-* [032](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/032/Main%2032.ipynb) - Madules (Random Madule).
+* [032](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/032/Main%2032.ipynb) - Modules (Random Module).
 
-* [033](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/033/Main%2033.ipynb) - More into Madules.
+* [033](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/033/Main%2033.ipynb) - More into Modules.
 
 * [034](https://github.com/RaminSaljoughinejad/Python-3.0-Course/blob/master/1-%20Fundamentals/034/Main%2034.ipynb) - Exceptions.
 
